@@ -1,0 +1,14 @@
+[project]
+name = "tesi"
+version = "0.1.0"
+description = "Comparison of supremum-based and score-based tests for detecting a change in slope at an unknown breakpoint through Monte Carlo simulations."
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "scipy>=1.18.1",
+    "statsmodels>=0.15.0",
+]
